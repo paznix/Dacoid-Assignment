@@ -46,7 +46,7 @@ const Tour = () => {
 
         <div>
           <Slider
-            className=" mt-20 flex flex-col justify-center items-center p-3w-full h-full"
+            className=" mt-10 flex flex-col justify-center items-center p-3 w-full h-full"
             ref={sliderRef}
             {...settings}
           >
