@@ -61,7 +61,7 @@ const handleEye = () => {
           </button>
           <div className="flex items-center">
             <div className="bg-gray-300 w-full h-0.5"></div>
-            <span className=" font-mon text-sm font-medium bg-white p-2 ">
+            <span className=" font-mon text-sm font-medium p-2 ">
               Or
             </span>
             <div className="bg-gray-300 w-full h-0.5"></div>

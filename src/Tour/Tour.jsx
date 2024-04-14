@@ -5,7 +5,6 @@ import { useNavigate } from "react-router-dom";
 import tourData from "./tour.data";
 import Slider from "react-slick";
 
-import "../Tour/Tour.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
